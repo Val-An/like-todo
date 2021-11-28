@@ -1,6 +1,7 @@
 .app-list-item {
   font-size: 1.25rem;
   background: white;
+  margin: 2px;
 }
 
 .app-list-item button {
