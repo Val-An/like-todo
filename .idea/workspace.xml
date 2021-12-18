@@ -11,18 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f00c99c8-371b-4601-8669-4a6792b68efa" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/like_twitter.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/like_twitter.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/app-header/app-header.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app-header/app-header.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/components/app/app.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/app/app.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-add-form/post-add-form.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-add-form/post-add-form.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-list-item/post-list-item.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list-item/post-list-item.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/post-list/post-list.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-list/post-list.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/post-status-filter/post-asatus-filter.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/post-status-filter/post-asatus-filter.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/search-panel/search-panel.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/search-panel/search-panel.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +53,8 @@
       <option name="presentableId" value="Default" />
       <updated>1639694248594</updated>
       <workItem from="1639694251938" duration="1536000" />
-      <workItem from="1639756842540" duration="8851000" />
+      <workItem from="1639756842540" duration="9396000" />
+      <workItem from="1639821687886" duration="5541000" />
     </task>
     <servers />
   </component>
